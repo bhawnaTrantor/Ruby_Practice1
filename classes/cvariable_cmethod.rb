@@ -3,7 +3,7 @@ class Bicycle
     @@count = 0
 
     def self.description   # class method
-        "Hi there, create new bicycle from me!"
+        "Hi there, create new bicycles from me!"
     end
 
     def self.count    # to read/get class variable
